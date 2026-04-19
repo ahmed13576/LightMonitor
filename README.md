@@ -2,7 +2,6 @@
 
 A barebones Windows system-tray temperature monitor. Zero distractions — just your CPU and GPU temps at a glance, updating every 5 minutes.
 
-![Tray badge showing 46° in green with tooltip: CPU 46°C GPU 44°C Bat 67% in 4:59](.github/preview.png)
 
 ---
 
